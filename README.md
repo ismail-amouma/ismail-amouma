@@ -2,7 +2,7 @@
 
 <p>I am a data and software student at INSEA (Institut National de Statistique et d'Economie Appliquée), passionate about data science, software development, and everything tech-related.</p>
 
-<table style="border-radius:10px;">
+<table>
   <tr>
     <th>📚 Education</th>
     <th>🌱 Currently Learning</th>
