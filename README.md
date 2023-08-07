@@ -29,14 +29,18 @@
   </tr>
 </table>
 
-<h2>🤝 Let's Connect</h2>
-<p>I am always interested in collaborating on exciting projects and connecting with fellow developers and data enthusiasts. Feel free to reach out to me via email at <a href="mailto:iamouma@insea.ac.ma">iamouma@insea.ac.ma</a>.</p>
-<p>Looking forward to connecting with you!</p>
+
 
 <h2>📫 How to reach me</h2>
-<a href="https://www.instagram.com/ismail_amouma/" target="_blank">
-  <img alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-<a href="https://www.linkedin.com/in/ismail-amouma/" target="_blank">
-  <img alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/600px-Linkedin_icon.svg.png" />
-</a>
+
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img alt="Email" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Android_Email_8.1_Icon.png/600px-Android_Email_8.1_Icon.png" />
+  </a>
+  <a href="https://www.instagram.com/ismail_amouma/" target="_blank">
+    <img alt="Instagram" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/ismail-amouma/" target="_blank">
+    <img alt="LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/600px-Linkedin_icon.svg.png" />
+  </a>
+</div>
