@@ -34,7 +34,7 @@
 <h2>📫 How to reach me</h2>
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:iamouma@insea.ac.ma">
     <img alt="Email" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Android_Email_8.1_Icon.png/600px-Android_Email_8.1_Icon.png" />
   </a>
   <a href="https://www.instagram.com/ismail_amouma/" target="_blank">
