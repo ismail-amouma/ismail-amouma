@@ -4,12 +4,10 @@
 
 <table>
   <tr>
-    <th>📚 Education</th>
     <th>🌱 Currently Learning</th>
     <th>💼 Professional Interests</th>
   </tr>
   <tr>
-    <td>Data and Software Engineering student at INSEA</td>
     <td>
       <ul>
         <li>Deepening my knowledge in Python and R for data analysis and visualization.</li>
