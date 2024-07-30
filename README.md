@@ -10,7 +10,6 @@
   <tr>
     <td>
       <ul>
-        <li>Deepening my knowledge in Python and R for data analysis and visualization.</li>
         <li>Exploring advanced machine learning algorithms and techniques.</li>
         <li>Learning about Transformers and their applications in natural language processing and computer vision.</li>
         <li>Improving my web development skills.</li>
