@@ -37,7 +37,4 @@
   <a href="https://www.instagram.com/ismail_amouma/" target="_blank">
     <img alt="Instagram" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
   </a>
-  <a href="https://www.linkedin.com/in/ismail-amouma/" target="_blank">
-    <img alt="LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/600px-Linkedin_icon.svg.png" />
-  </a>
 </div>
